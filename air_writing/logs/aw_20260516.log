@@ -1,0 +1,258 @@
+2026-05-16 07:56:47,766 | [92mINFO[0m | main | ==========================================================
+2026-05-16 07:56:47,766 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-16 07:56:47,766 | [92mINFO[0m | main | ==========================================================
+2026-05-16 07:56:47,790 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-16 07:56:47,790 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-16 07:56:49,389 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-16 07:56:49,660 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-16 07:56:53,728 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-16 07:57:00,669 | [92mINFO[0m | main | CHAR 'o' (1.00) → 'o'
+2026-05-16 07:57:03,288 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'or'
+2026-05-16 07:57:03,837 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'ore'
+2026-05-16 07:57:06,487 | [92mINFO[0m | main | CHAR 'l' (1.00) → 'orel'
+2026-05-16 07:57:09,848 | [92mINFO[0m | main | CHAR 'l' (1.00) → 'orell'
+2026-05-16 07:57:17,145 | [92mINFO[0m | main | CHAR 'v' (1.00) → 'orellv'
+2026-05-16 07:57:21,992 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'orellve'
+2026-05-16 07:57:34,222 | [92mINFO[0m | main | CHAR 'R' (1.00) → 'orellveR'
+2026-05-16 07:57:34,831 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'orellveRe'
+2026-05-16 07:57:47,016 | [92mINFO[0m | main | CHAR 'A' (1.00) → 'orellveReA'
+2026-05-16 07:57:54,490 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'orellveReAN'
+2026-05-16 07:57:57,385 | [92mINFO[0m | main | CHAR 't' (1.00) → 'orellveReANt'
+2026-05-16 07:58:00,432 | [92mINFO[0m | main | CHAR '1' (1.00) → 'orellveReANt1'
+2026-05-16 07:58:02,216 | [92mINFO[0m | main | CHAR 'O' (1.00) → 'orellveReANt1O'
+2026-05-16 07:58:03,064 | [92mINFO[0m | main | CHAR '4' (1.00) → 'orellveReANt1O4'
+2026-05-16 07:58:05,574 | [92mINFO[0m | main | CHAR 't' (1.00) → 'orellveReANt1O4t'
+2026-05-16 07:58:08,689 | [92mINFO[0m | main | CHAR 'k' (1.00) → 'orellveReANt1O4tk'
+2026-05-16 07:58:09,377 | [92mINFO[0m | main | CHAR '1' (1.00) → 'orellveReANt1O4tk1'
+2026-05-16 07:58:16,556 | [92mINFO[0m | main | CHAR 'L' (1.00) → 'orellveReANt1O4tk1L'
+2026-05-16 07:58:22,954 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'orellveReANt1O4tk1LN'
+2026-05-16 07:58:24,426 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'orellveReANt1O4tk1LNe'
+2026-05-16 07:58:26,268 | [92mINFO[0m | main | CHAR 'D' (1.00) → 'orellveReANt1O4tk1LNeD'
+2026-05-16 07:58:28,282 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'orellveReANt1O4tk1LNeDr'
+2026-05-16 07:58:38,540 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'orellveReANt1O4tk1LNeDrN'
+2026-05-16 07:58:43,661 | [92mINFO[0m | main | CHAR 'o' (1.00) → 'orellveReANt1O4tk1LNeDrNo'
+2026-05-16 07:58:45,656 | [92mINFO[0m | main | CHAR 'O' (1.00) → 'orellveReANt1O4tk1LNeDrNoO'
+2026-05-16 07:58:50,905 | [92mINFO[0m | main | CHAR '0' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0'
+2026-05-16 07:58:59,558 | [92mINFO[0m | main | CHAR 'W' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0W'
+2026-05-16 07:59:01,221 | [92mINFO[0m | main | CHAR 'C' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WC'
+2026-05-16 07:59:03,186 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCV'
+2026-05-16 07:59:03,967 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe'
+2026-05-16 07:59:04,814 | [92mINFO[0m | main | CHAR '6' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6'
+2026-05-16 07:59:05,303 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e'
+2026-05-16 07:59:11,848 | [92mINFO[0m | main | CHAR '0' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0'
+2026-05-16 07:59:21,661 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0r'
+2026-05-16 07:59:24,122 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rr'
+2026-05-16 07:59:26,451 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rre'
+2026-05-16 07:59:33,421 | [92mINFO[0m | main | CHAR 'W' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreW'
+2026-05-16 07:59:40,153 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWe'
+2026-05-16 07:59:41,270 | [92mINFO[0m | main | CHAR 'o' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeo'
+2026-05-16 07:59:42,606 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeor'
+2026-05-16 07:59:43,810 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV'
+2026-05-16 07:59:46,109 | [92mINFO[0m | main | CHAR '7' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7'
+2026-05-16 07:59:47,063 | [92mINFO[0m | main | CHAR 'w' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7w'
+2026-05-16 07:59:49,631 | [92mINFO[0m | main | CHAR 'C' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wC'
+2026-05-16 07:59:55,836 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCV'
+2026-05-16 08:00:01,294 | [92mINFO[0m | main | CHAR 'L' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVL'
+2026-05-16 08:00:03,659 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLe'
+2026-05-16 08:00:05,775 | [92mINFO[0m | main | CHAR 'f' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLef'
+2026-05-16 08:00:08,494 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLefe'
+2026-05-16 08:00:09,570 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLefer'
+2026-05-16 08:00:12,604 | [92mINFO[0m | main | CHAR 'L' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL'
+2026-05-16 08:00:16,598 | [92mINFO[0m | main | CHAR '0' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL0'
+2026-05-16 08:00:19,863 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL0V'
+2026-05-16 08:00:25,159 | [92mINFO[0m | main | CHAR '6' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL0V6'
+2026-05-16 08:00:30,984 | [92mINFO[0m | main | CHAR 'I' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL0V6I'
+2026-05-16 08:00:33,491 | [92mINFO[0m | main | CHAR 't' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL0V6It'
+2026-05-16 08:00:39,902 | [92mINFO[0m | main | CHAR 'D' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL0V6ItD'
+2026-05-16 08:00:42,933 | [92mINFO[0m | main | CHAR 'l' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL0V6ItDl'
+2026-05-16 08:00:44,844 | [92mINFO[0m | main | CHAR 'j' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL0V6ItDlj'
+2026-05-16 08:00:45,710 | [92mINFO[0m | main | CHAR 'I' (1.00) → 'orellveReANt1O4tk1LNeDrNoO0WCVe6e0rreWeorV7wCVLeferL0V6ItDljI'
+2026-05-16 08:00:54,417 | [92mINFO[0m | main | Shutting down …
+2026-05-16 08:00:54,798 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-16 08:00:54,799 | [92mINFO[0m | main | Bye!
+2026-05-16 08:03:26,655 | [92mINFO[0m | main | ==========================================================
+2026-05-16 08:03:26,655 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-16 08:03:26,655 | [92mINFO[0m | main | ==========================================================
+2026-05-16 08:03:26,662 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-16 08:03:26,662 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-16 08:03:27,949 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-16 08:03:28,073 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-16 08:03:31,682 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-16 08:03:36,101 | [92mINFO[0m | main | CHAR '7' (1.00) → '7'
+2026-05-16 08:04:21,155 | [92mINFO[0m | main | CHAR 'm' (1.00) → '7m'
+2026-05-16 08:04:40,943 | [92mINFO[0m | main | CHAR 'e' (1.00) → '7me'
+2026-05-16 08:04:45,071 | [92mINFO[0m | main | CHAR '7' (1.00) → '7me7'
+2026-05-16 08:04:45,406 | [92mINFO[0m | main | CHAR 'O' (1.00) → '7me7O'
+2026-05-16 08:04:45,705 | [92mINFO[0m | main | CHAR 'e' (1.00) → '7me7Oe'
+2026-05-16 08:04:49,593 | [92mINFO[0m | main | CHAR '7' (1.00) → '7me7Oe7'
+2026-05-16 08:04:49,849 | [92mINFO[0m | main | CHAR 'e' (1.00) → '7me7Oe7e'
+2026-05-16 08:05:30,273 | [92mINFO[0m | main | CHAR 't' (1.00) → '7me7Oe7et'
+2026-05-16 08:07:18,299 | [92mINFO[0m | main | CHAR 'r' (1.00) → '7me7Oe7etr'
+2026-05-16 08:07:24,347 | [92mINFO[0m | main | CHAR 'M' (1.00) → '7me7Oe7etrM'
+2026-05-16 08:07:33,871 | [92mINFO[0m | main | CHAR 'J' (1.00) → '7me7Oe7etrMJ'
+2026-05-16 08:07:38,186 | [92mINFO[0m | main | CHAR 't' (1.00) → '7me7Oe7etrMJt'
+2026-05-16 08:07:44,989 | [92mINFO[0m | main | CHAR 'M' (1.00) → '7me7Oe7etrMJtM'
+2026-05-16 08:07:54,064 | [92mINFO[0m | main | CHAR 'e' (1.00) → '7me7Oe7etrMJtMe'
+2026-05-16 08:07:54,988 | [92mINFO[0m | main | CHAR 'm' (1.00) → '7me7Oe7etrMJtMem'
+2026-05-16 08:08:07,127 | [92mINFO[0m | main | CHAR 'o' (1.00) → '7me7Oe7etrMJtMemo'
+2026-05-16 08:08:37,183 | [92mINFO[0m | main | Shutting down …
+2026-05-16 08:08:37,506 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-16 08:08:37,508 | [92mINFO[0m | main | Bye!
+2026-05-16 08:28:14,434 | [92mINFO[0m | main | ==========================================================
+2026-05-16 08:28:14,434 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-16 08:28:14,434 | [92mINFO[0m | main | ==========================================================
+2026-05-16 08:28:14,449 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-16 08:28:14,449 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-16 08:28:16,072 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-16 08:28:16,261 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-16 08:28:19,828 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-16 08:28:36,790 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'r'
+2026-05-16 08:31:46,938 | [92mINFO[0m | main | CHAR 'o' (1.00) → 'ro'
+2026-05-16 08:31:59,308 | [92mINFO[0m | main | CHAR 'P' (1.00) → 'roP'
+2026-05-16 08:32:33,947 | [92mINFO[0m | main | CHAR 'w' (1.00) → 'roPw'
+2026-05-16 08:32:36,415 | [92mINFO[0m | main | CHAR '4' (1.00) → 'roPw4'
+2026-05-16 08:32:44,925 | [92mINFO[0m | main | CHAR 'h' (1.00) → 'roPw4h'
+2026-05-16 08:32:54,249 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'roPw4hQ'
+2026-05-16 08:33:00,138 | [92mINFO[0m | main | CHAR 'M' (1.00) → 'roPw4hQM'
+2026-05-16 08:33:02,630 | [92mINFO[0m | main | CHAR 'o' (1.00) → 'roPw4hQMo'
+2026-05-16 08:33:06,387 | [92mINFO[0m | main | CHAR 'J' (1.00) → 'roPw4hQMoJ'
+2026-05-16 08:33:06,644 | [92mINFO[0m | main | CHAR 'l' (1.00) → 'roPw4hQMoJl'
+2026-05-16 08:33:18,017 | [92mINFO[0m | main | CHAR '1' (1.00) → 'roPw4hQMoJl1'
+2026-05-16 08:33:28,488 | [92mINFO[0m | main | CHAR 'T' (1.00) → 'roPw4hQMoJl1T'
+2026-05-16 08:33:37,062 | [92mINFO[0m | main | CHAR '1' (1.00) → 'roPw4hQMoJl1T1'
+2026-05-16 08:33:41,032 | [92mINFO[0m | main | CHAR '4' (1.00) → 'roPw4hQMoJl1T14'
+2026-05-16 08:33:41,273 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'roPw4hQMoJl1T14e'
+2026-05-16 08:33:41,767 | [92mINFO[0m | main | CHAR 'v' (1.00) → 'roPw4hQMoJl1T14ev'
+2026-05-16 08:33:42,777 | [92mINFO[0m | main | CHAR 'd' (1.00) → 'roPw4hQMoJl1T14evd'
+2026-05-16 08:33:45,477 | [92mINFO[0m | main | CHAR 'c' (1.00) → 'roPw4hQMoJl1T14evdc'
+2026-05-16 08:33:51,670 | [92mINFO[0m | main | CHAR 'v' (1.00) → 'roPw4hQMoJl1T14evdcv'
+2026-05-16 08:33:52,489 | [92mINFO[0m | main | CHAR '1' (1.00) → 'roPw4hQMoJl1T14evdcv1'
+2026-05-16 08:34:02,250 | [92mINFO[0m | main | CHAR 'h' (1.00) → 'roPw4hQMoJl1T14evdcv1h'
+2026-05-16 08:34:28,101 | [92mINFO[0m | main | CHAR 'k' (1.00) → 'roPw4hQMoJl1T14evdcv1hk'
+2026-05-16 08:34:32,107 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'roPw4hQMoJl1T14evdcv1hkQ'
+2026-05-16 08:34:39,271 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'roPw4hQMoJl1T14evdcv1hkQN'
+2026-05-16 08:34:40,991 | [92mINFO[0m | main | Shutting down …
+2026-05-16 08:34:41,354 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-16 08:34:44,368 | [92mINFO[0m | main | Bye!
+2026-05-16 12:19:31,656 | [92mINFO[0m | main | ==========================================================
+2026-05-16 12:19:31,656 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-16 12:19:31,656 | [92mINFO[0m | main | ==========================================================
+2026-05-16 12:19:31,674 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-16 12:19:31,675 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-16 12:19:34,851 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-16 12:19:35,420 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-16 12:19:40,402 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-16 12:19:53,989 | [92mINFO[0m | main | CHAR 'x' (1.00) → 'x'
+2026-05-16 12:19:58,676 | [92mINFO[0m | main | CHAR 'h' (1.00) → 'xh'
+2026-05-16 12:20:08,687 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xhe'
+2026-05-16 12:21:07,074 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'xher'
+2026-05-16 12:21:34,780 | [92mINFO[0m | main | CHAR '2' (1.00) → 'xher2'
+2026-05-16 12:21:39,852 | [92mINFO[0m | main | CHAR 'O' (1.00) → 'xher2O'
+2026-05-16 12:23:37,334 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'xher2Or'
+2026-05-16 12:24:04,866 | [92mINFO[0m | main | CHAR '1' (1.00) → 'xher2Or1'
+2026-05-16 12:24:09,229 | [92mINFO[0m | main | CHAR 'n' (1.00) → 'xher2Or1n'
+2026-05-16 12:25:00,528 | [92mINFO[0m | main | CHAR 'Y' (1.00) → 'xher2Or1nY'
+2026-05-16 12:25:04,698 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYe'
+2026-05-16 12:25:05,822 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYee'
+2026-05-16 12:26:04,870 | [92mINFO[0m | main | CHAR 'f' (1.00) → 'xher2Or1nYeef'
+2026-05-16 12:26:39,682 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'xher2Or1nYeefV'
+2026-05-16 12:26:44,392 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVe'
+2026-05-16 12:27:22,133 | [92mINFO[0m | main | CHAR 'Y' (1.00) → 'xher2Or1nYeefVeY'
+2026-05-16 12:31:38,396 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYe'
+2026-05-16 12:31:56,202 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'xher2Or1nYeefVeYer'
+2026-05-16 12:32:37,499 | [92mINFO[0m | main | CHAR 'x' (1.00) → 'xher2Or1nYeefVeYerx'
+2026-05-16 12:32:59,695 | [92mINFO[0m | main | CHAR 'w' (1.00) → 'xher2Or1nYeefVeYerxw'
+2026-05-16 12:33:15,023 | [92mINFO[0m | main | CHAR 'm' (1.00) → 'xher2Or1nYeefVeYerxwm'
+2026-05-16 12:33:28,727 | [92mINFO[0m | main | CHAR 'o' (1.00) → 'xher2Or1nYeefVeYerxwmo'
+2026-05-16 12:38:05,894 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'xher2Or1nYeefVeYerxwmor'
+2026-05-16 12:38:13,647 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmore'
+2026-05-16 12:38:27,654 | [92mINFO[0m | main | CHAR 'o' (1.00) → 'xher2Or1nYeefVeYerxwmoreo'
+2026-05-16 12:45:28,344 | [92mINFO[0m | main | CHAR 'n' (1.00) → 'xher2Or1nYeefVeYerxwmoreon'
+2026-05-16 12:48:26,917 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'xher2Or1nYeefVeYerxwmoreonr'
+2026-05-16 12:48:28,950 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonre'
+2026-05-16 12:48:40,768 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrer'
+2026-05-16 12:50:16,180 | [92mINFO[0m | main | CHAR 'o' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero'
+2026-05-16 12:50:31,601 | [92mINFO[0m | main | CHAR '7' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7'
+2026-05-16 12:57:24,266 | [92mINFO[0m | main | CHAR 'v' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7v'
+2026-05-16 12:58:22,182 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vr'
+2026-05-16 12:58:25,369 | [92mINFO[0m | main | CHAR 'v' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrv'
+2026-05-16 12:58:35,083 | [92mINFO[0m | main | CHAR 'v' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvv'
+2026-05-16 12:58:36,528 | [92mINFO[0m | main | CHAR 't' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvt'
+2026-05-16 12:58:43,175 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvte'
+2026-05-16 12:58:59,910 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee'
+2026-05-16 12:59:11,226 | [92mINFO[0m | main | CHAR '4' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4'
+2026-05-16 12:59:44,645 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4e'
+2026-05-16 12:59:46,582 | [92mINFO[0m | main | CHAR 't' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4et'
+2026-05-16 13:00:02,012 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etV'
+2026-05-16 13:00:33,491 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVe'
+2026-05-16 13:00:37,763 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVee'
+2026-05-16 13:00:39,219 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeee'
+2026-05-16 13:01:16,743 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeee'
+2026-05-16 13:01:19,867 | [92mINFO[0m | main | CHAR 'A' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeA'
+2026-05-16 13:01:27,397 | [92mINFO[0m | main | CHAR 'f' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAf'
+2026-05-16 13:01:27,896 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfe'
+2026-05-16 13:01:29,264 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfee'
+2026-05-16 13:01:32,570 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeer'
+2026-05-16 13:01:34,520 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeere'
+2026-05-16 13:01:37,673 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeerer'
+2026-05-16 13:01:45,339 | [92mINFO[0m | main | CHAR 'M' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererM'
+2026-05-16 13:01:53,207 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMe'
+2026-05-16 13:02:04,408 | [92mINFO[0m | main | CHAR 'f' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef'
+2026-05-16 13:02:12,325 | [92mINFO[0m | main | CHAR '7' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef7'
+2026-05-16 13:02:17,706 | [92mINFO[0m | main | CHAR 'l' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef7l'
+2026-05-16 13:02:40,067 | [92mINFO[0m | main | CHAR 'W' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef7lW'
+2026-05-16 13:02:47,230 | [92mINFO[0m | main | CHAR '0' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef7lW0'
+2026-05-16 13:03:31,900 | [92mINFO[0m | main | CHAR 'h' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef7lW0h'
+2026-05-16 13:03:36,851 | [92mINFO[0m | main | CHAR 'I' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef7lW0hI'
+2026-05-16 13:03:50,441 | [92mINFO[0m | main | CHAR 'G' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef7lW0hIG'
+2026-05-16 13:03:51,556 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef7lW0hIGe'
+2026-05-16 13:03:52,813 | [92mINFO[0m | main | CHAR 'o' (1.00) → 'xher2Or1nYeefVeYerxwmoreonrero7vrvvtee4etVeeeeAfeererMef7lW0hIGeo'
+2026-05-16 13:04:09,183 | [92mINFO[0m | main | Shutting down …
+2026-05-16 13:04:09,829 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-16 13:04:09,832 | [92mINFO[0m | main | Bye!
+2026-05-16 13:15:36,378 | [92mINFO[0m | main | ==========================================================
+2026-05-16 13:15:36,378 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-16 13:15:36,378 | [92mINFO[0m | main | ==========================================================
+2026-05-16 13:15:36,389 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-16 13:15:36,389 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-16 13:15:38,849 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-16 13:15:39,114 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-16 13:15:46,065 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-16 13:16:55,605 | [92mINFO[0m | main | CHAR '7' (1.00) → '7'
+2026-05-16 13:17:02,322 | [92mINFO[0m | main | CHAR 'D' (1.00) → '7D'
+2026-05-16 13:17:03,807 | [92mINFO[0m | main | CHAR 'e' (1.00) → '7De'
+2026-05-16 13:17:05,160 | [92mINFO[0m | main | CHAR 'e' (1.00) → '7Dee'
+2026-05-16 13:17:11,203 | [92mINFO[0m | main | CHAR 't' (1.00) → '7Deet'
+2026-05-16 13:17:20,701 | [92mINFO[0m | main | CHAR '9' (1.00) → '7Deet9'
+2026-05-16 13:17:28,722 | [92mINFO[0m | main | CHAR 'v' (1.00) → '7Deet9v'
+2026-05-16 13:17:33,233 | [92mINFO[0m | main | CHAR 'f' (1.00) → '7Deet9vf'
+2026-05-16 13:17:42,160 | [92mINFO[0m | main | CHAR '0' (1.00) → '7Deet9vf0'
+2026-05-16 13:17:56,278 | [92mINFO[0m | main | CHAR 'y' (1.00) → '7Deet9vf0y'
+2026-05-16 13:17:58,607 | [92mINFO[0m | main | CHAR 'o' (1.00) → '7Deet9vf0yo'
+2026-05-16 13:18:05,719 | [92mINFO[0m | main | CHAR 'p' (1.00) → '7Deet9vf0yop'
+2026-05-16 13:18:06,784 | [92mINFO[0m | main | CHAR '7' (1.00) → '7Deet9vf0yop7'
+2026-05-16 13:18:25,622 | [92mINFO[0m | main | CHAR 'M' (1.00) → '7Deet9vf0yop7M'
+2026-05-16 13:18:27,076 | [92mINFO[0m | main | CHAR 'e' (1.00) → '7Deet9vf0yop7Me'
+2026-05-16 13:18:28,294 | [92mINFO[0m | main | CHAR '7' (1.00) → '7Deet9vf0yop7Me7'
+2026-05-16 13:19:03,974 | [92mINFO[0m | main | CHAR 'g' (1.00) → '7Deet9vf0yop7Me7g'
+2026-05-16 13:19:33,781 | [92mINFO[0m | main | Shutting down …
+2026-05-16 13:19:34,188 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-16 13:19:34,191 | [92mINFO[0m | main | Bye!
+2026-05-16 13:20:30,597 | [92mINFO[0m | main | ==========================================================
+2026-05-16 13:20:30,597 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-16 13:20:30,597 | [92mINFO[0m | main | ==========================================================
+2026-05-16 13:20:30,611 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-16 13:20:30,613 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-16 13:20:34,608 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-16 13:20:34,995 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-16 13:20:43,922 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-16 13:21:59,187 | [92mINFO[0m | main | CHAR 'c' (1.00) → 'c'
+2026-05-16 13:22:02,102 | [92mINFO[0m | main | CHAR 't' (1.00) → 'ct'
+2026-05-16 13:22:07,792 | [92mINFO[0m | main | CHAR 'M' (1.00) → 'ctM'
+2026-05-16 13:22:13,036 | [92mINFO[0m | main | CHAR 'L' (1.00) → 'ctML'
+2026-05-16 13:22:14,087 | [92mINFO[0m | main | CHAR '7' (1.00) → 'ctML7'
+2026-05-16 13:22:21,391 | [92mINFO[0m | main | CHAR '0' (1.00) → 'ctML70'
+2026-05-16 13:22:29,274 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'ctML70N'
+2026-05-16 13:25:25,282 | [92mINFO[0m | main | Shutting down …
+2026-05-16 13:25:25,706 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-16 13:25:25,727 | [92mINFO[0m | main | Bye!

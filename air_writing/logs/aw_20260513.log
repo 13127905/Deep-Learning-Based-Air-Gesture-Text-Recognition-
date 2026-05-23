@@ -1,0 +1,107 @@
+2026-05-13 17:52:57,405 | [92mINFO[0m | main | ==========================================================
+2026-05-13 17:52:57,414 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-13 17:52:57,414 | [92mINFO[0m | main | ==========================================================
+2026-05-13 17:52:57,433 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-13 17:52:57,433 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-13 17:52:59,336 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-13 17:52:59,772 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-13 17:53:03,328 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-13 17:53:14,929 | [92mINFO[0m | main | Shutting down …
+2026-05-13 17:53:15,274 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-13 17:53:15,283 | [92mINFO[0m | main | Bye!
+2026-05-13 17:57:15,044 | [92mINFO[0m | main | ==========================================================
+2026-05-13 17:57:15,044 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-13 17:57:15,044 | [92mINFO[0m | main | ==========================================================
+2026-05-13 17:57:15,063 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-13 17:57:15,064 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-13 17:57:16,268 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-13 17:57:16,388 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-13 17:57:19,788 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-13 17:58:21,996 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'r'
+2026-05-13 17:58:28,696 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'rV'
+2026-05-13 17:58:39,159 | [92mINFO[0m | main | CHAR 'M' (1.00) → 'rVM'
+2026-05-13 17:58:39,762 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'rVMe'
+2026-05-13 17:58:51,720 | [92mINFO[0m | main | CHAR 'm' (1.00) → 'rVMem'
+2026-05-13 17:59:05,645 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'rVMemN'
+2026-05-13 17:59:13,655 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'rVMemNV'
+2026-05-13 17:59:29,193 | [92mINFO[0m | main | CHAR 'Z' (1.00) → 'rVMemNVZ'
+2026-05-13 17:59:34,561 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'rVMemNVZr'
+2026-05-13 17:59:38,983 | [92mINFO[0m | main | CHAR 'x' (1.00) → 'rVMemNVZrx'
+2026-05-13 17:59:39,973 | [92mINFO[0m | main | CHAR 'n' (1.00) → 'rVMemNVZrxn'
+2026-05-13 17:59:43,665 | [92mINFO[0m | main | CHAR 'Z' (1.00) → 'rVMemNVZrxnZ'
+2026-05-13 17:59:51,285 | [92mINFO[0m | main | CHAR 'c' (1.00) → 'rVMemNVZrxnZc'
+2026-05-13 17:59:51,600 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'rVMemNVZrxnZce'
+2026-05-13 17:59:52,444 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'rVMemNVZrxnZcee'
+2026-05-13 17:59:54,789 | [92mINFO[0m | main | CHAR '1' (1.00) → 'rVMemNVZrxnZcee1'
+2026-05-13 18:00:11,011 | [92mINFO[0m | main | CHAR 'C' (1.00) → 'rVMemNVZrxnZcee1C'
+2026-05-13 18:00:26,639 | [92mINFO[0m | main | CHAR 'Z' (1.00) → 'rVMemNVZrxnZcee1CZ'
+2026-05-13 18:00:32,264 | [92mINFO[0m | main | CHAR 'f' (1.00) → 'rVMemNVZrxnZcee1CZf'
+2026-05-13 18:00:35,024 | [92mINFO[0m | main | CHAR 'Z' (1.00) → 'rVMemNVZrxnZcee1CZfZ'
+2026-05-13 18:00:42,271 | [92mINFO[0m | main | CHAR 'K' (1.00) → 'rVMemNVZrxnZcee1CZfZK'
+2026-05-13 18:00:49,308 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'rVMemNVZrxnZcee1CZfZKe'
+2026-05-13 18:00:52,435 | [92mINFO[0m | main | Shutting down …
+2026-05-13 18:00:52,768 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-13 18:00:52,768 | [92mINFO[0m | main | Bye!
+2026-05-13 19:18:44,733 | [92mINFO[0m | main | ==========================================================
+2026-05-13 19:18:44,733 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-13 19:18:44,733 | [92mINFO[0m | main | ==========================================================
+2026-05-13 19:18:44,759 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-13 19:18:44,760 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-13 19:18:46,718 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-13 19:18:47,000 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-13 19:18:51,365 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-13 19:19:16,217 | [92mINFO[0m | main | CHAR 'A' (1.00) → 'A'
+2026-05-13 19:19:25,979 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'AN'
+2026-05-13 19:19:35,561 | [92mINFO[0m | main | CHAR '4' (1.00) → 'AN4'
+2026-05-13 19:19:47,343 | [92mINFO[0m | main | CHAR '1' (1.00) → 'AN41'
+2026-05-13 19:19:53,218 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'AN41e'
+2026-05-13 19:19:55,546 | [92mINFO[0m | main | CHAR '4' (1.00) → 'AN41e4'
+2026-05-13 19:19:57,810 | [92mINFO[0m | main | CHAR '1' (1.00) → 'AN41e41'
+2026-05-13 19:20:04,585 | [92mINFO[0m | main | CHAR '2' (1.00) → 'AN41e412'
+2026-05-13 19:20:10,213 | [92mINFO[0m | main | CHAR '2' (1.00) → 'AN41e4122'
+2026-05-13 19:20:33,697 | [92mINFO[0m | main | CHAR 'g' (1.00) → 'AN41e4122g'
+2026-05-13 19:20:49,387 | [92mINFO[0m | main | CHAR 'J' (1.00) → 'AN41e4122gJ'
+2026-05-13 19:21:27,743 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'AN41e4122gJN'
+2026-05-13 19:21:31,145 | [92mINFO[0m | main | Shutting down …
+2026-05-13 19:21:31,494 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-13 19:21:31,495 | [92mINFO[0m | main | Bye!
+2026-05-13 19:22:54,891 | [92mINFO[0m | main | ==========================================================
+2026-05-13 19:22:54,891 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-13 19:22:54,891 | [92mINFO[0m | main | ==========================================================
+2026-05-13 19:22:54,891 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-13 19:22:54,907 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-13 19:22:56,255 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-13 19:22:56,367 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-13 19:22:59,844 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-13 19:23:08,324 | [92mINFO[0m | main | CHAR 'M' (1.00) → 'M'
+2026-05-13 19:23:22,862 | [92mINFO[0m | main | CHAR 'D' (1.00) → 'MD'
+2026-05-13 19:23:34,787 | [92mINFO[0m | main | CHAR 'Y' (1.00) → 'MDY'
+2026-05-13 19:23:48,577 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'MDYN'
+2026-05-13 19:23:59,735 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'MDYNQ'
+2026-05-13 19:24:02,871 | [92mINFO[0m | main | CHAR '1' (1.00) → 'MDYNQ1'
+2026-05-13 19:24:03,195 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'MDYNQ1e'
+2026-05-13 19:24:12,137 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'MDYNQ1eQ'
+2026-05-13 19:24:21,035 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'MDYNQ1eQQ'
+2026-05-13 19:24:25,750 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'MDYNQ1eQQr'
+2026-05-13 19:24:31,696 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'MDYNQ1eQQrQ'
+2026-05-13 19:24:32,707 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'MDYNQ1eQQrQV'
+2026-05-13 19:24:38,819 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'MDYNQ1eQQrQVV'
+2026-05-13 19:24:44,903 | [92mINFO[0m | main | CHAR 'f' (1.00) → 'MDYNQ1eQQrQVVf'
+2026-05-13 19:24:45,816 | [92mINFO[0m | main | CHAR 'r' (1.00) → 'MDYNQ1eQQrQVVfr'
+2026-05-13 19:24:53,572 | [92mINFO[0m | main | CHAR 'C' (1.00) → 'MDYNQ1eQQrQVVfrC'
+2026-05-13 19:24:53,912 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'MDYNQ1eQQrQVVfrCe'
+2026-05-13 19:24:54,558 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'MDYNQ1eQQrQVVfrCee'
+2026-05-13 19:24:56,232 | [92mINFO[0m | main | Shutting down …
+2026-05-13 19:24:56,555 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-13 19:24:59,560 | [92mINFO[0m | main | Bye!
+2026-05-13 19:27:29,182 | [92mINFO[0m | main | ==========================================================
+2026-05-13 19:27:29,182 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-13 19:27:29,182 | [92mINFO[0m | main | ==========================================================
+2026-05-13 19:27:29,196 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-13 19:27:29,197 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-13 19:27:31,559 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-13 19:27:31,785 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-13 19:27:37,221 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-13 19:27:41,959 | [92mINFO[0m | main | Shutting down …
+2026-05-13 19:27:42,285 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-13 19:27:42,285 | [92mINFO[0m | main | Bye!

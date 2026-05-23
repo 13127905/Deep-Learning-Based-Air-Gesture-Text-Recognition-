@@ -1,0 +1,30 @@
+2026-05-15 21:46:39,398 | [92mINFO[0m | main | ==========================================================
+2026-05-15 21:46:39,398 | [92mINFO[0m | main |   AI AIR WRITING RECOGNITION  —  Starting …
+2026-05-15 21:46:39,398 | [92mINFO[0m | main | ==========================================================
+2026-05-15 21:46:39,421 | [92mINFO[0m | utils.hand_tracker | HandTracker ready.
+2026-05-15 21:46:39,421 | [92mINFO[0m | utils.canvas_manager | Canvas ready (400x400).
+2026-05-15 21:46:41,248 | [92mINFO[0m | models.predictor | Model loaded + warmed up: models/air_writing_cnn.keras
+2026-05-15 21:46:41,667 | [92mINFO[0m | utils.voice_output | VoiceOutput ready.
+2026-05-15 21:46:45,115 | [92mINFO[0m | main | Webcam open. Press H for help, ESC/Q to quit.
+2026-05-15 21:46:55,808 | [92mINFO[0m | main | CHAR 'b' (1.00) → 'b'
+2026-05-15 21:47:07,166 | [92mINFO[0m | main | CHAR 'M' (1.00) → 'bM'
+2026-05-15 21:47:14,026 | [92mINFO[0m | main | CHAR 'N' (1.00) → 'bMN'
+2026-05-15 21:47:14,350 | [92mINFO[0m | main | CHAR '1' (1.00) → 'bMN1'
+2026-05-15 21:47:27,483 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'bMN1Q'
+2026-05-15 21:47:28,460 | [92mINFO[0m | main | CHAR 'v' (1.00) → 'bMN1Qv'
+2026-05-15 21:47:39,547 | [92mINFO[0m | main | CHAR 'V' (1.00) → 'bMN1QvV'
+2026-05-15 21:47:39,948 | [92mINFO[0m | main | CHAR 'f' (1.00) → 'bMN1QvVf'
+2026-05-15 21:47:47,871 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'bMN1QvVfQ'
+2026-05-15 21:47:55,823 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'bMN1QvVfQQ'
+2026-05-15 21:48:03,950 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'bMN1QvVfQQQ'
+2026-05-15 21:48:04,911 | [92mINFO[0m | main | CHAR 'e' (1.00) → 'bMN1QvVfQQQe'
+2026-05-15 21:48:11,537 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'bMN1QvVfQQQeQ'
+2026-05-15 21:48:12,093 | [92mINFO[0m | main | CHAR '1' (1.00) → 'bMN1QvVfQQQeQ1'
+2026-05-15 21:48:16,283 | [92mINFO[0m | main | CHAR 'Q' (1.00) → 'bMN1QvVfQQQeQ1Q'
+2026-05-15 21:48:29,740 | [92mINFO[0m | main | CHAR 'h' (1.00) → 'bMN1QvVfQQQeQ1Qh'
+2026-05-15 21:48:37,909 | [92mINFO[0m | main | CHAR 'h' (1.00) → 'bMN1QvVfQQQeQ1Qhh'
+2026-05-15 21:48:44,640 | [92mINFO[0m | main | CHAR 'W' (1.00) → 'bMN1QvVfQQQeQ1QhhW'
+2026-05-15 21:48:51,771 | [92mINFO[0m | main | CHAR 'h' (1.00) → 'bMN1QvVfQQQeQ1QhhWh'
+2026-05-15 21:48:55,924 | [92mINFO[0m | main | Shutting down …
+2026-05-15 21:48:56,261 | [92mINFO[0m | utils.hand_tracker | HandTracker released.
+2026-05-15 21:48:56,261 | [92mINFO[0m | main | Bye!
