@@ -176,5 +176,6 @@ Used for webcam processing, stroke generation, and graphical rendering
 
 ## Project Preview
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3017c13a-4e93-4083-a14f-c3c48e4c7178" width="900">
+  <img src="https://github.com/user-attachments/assets/bb9e2a04-b292-4e79-8140-abfbfd79414d" width="900">
 </p>
+
