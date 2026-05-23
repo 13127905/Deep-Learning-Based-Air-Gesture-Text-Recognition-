@@ -173,5 +173,8 @@ Convolutional Neural Network (CNN)
 Used for image-based air-written character recognition.
 OpenCV Image Processing
 Used for webcam processing, stroke generation, and graphical rendering
-<img width="1600" height="850" alt="IMG-20260511-WA0003 jpg" src="https://github.com/user-attachments/assets/3017c13a-4e93-4083-a14f-c3c48e4c7178" />
 
+## Project Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3017c13a-4e93-4083-a14f-c3c48e4c7178" width="900">
+</p>
